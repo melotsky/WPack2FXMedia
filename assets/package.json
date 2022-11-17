@@ -1,0 +1,27 @@
+{
+  "name": "FxMedia",
+  "version": "1.0.0",
+  "description": "2FxMedia Theme Packages, it is a skeleton theme created by Romel Lozendo with mobile firt approach.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "themes",
+    "modern",
+    "mobile first approach",
+    "webpack"
+  ],
+  "author": "Romel Lozendo",
+  "license": "MIT",
+  "private": true,
+  "browserslist": [
+    "defaults"
+  ],
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
